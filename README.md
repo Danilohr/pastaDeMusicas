@@ -7,7 +7,7 @@ Para não ter que copiar e renomear com a numeração correta 2500 músicas, Dan
 * As músicas já contidas na pasta de saída devem ser enumeradas primeiro.
 * As músicas de uma pasta devem estar consecutivas na saída.
 * O programa deve mostrar quantas músicas foram copiadas e quantas estavam repetidas.
-# Teste 1:
+# Exemplo 1:
 ![2021-08-30_11-08-26](https://user-images.githubusercontent.com/75738653/131353876-c8d8e476-47dd-4017-95c9-6c537e6aa79b.gif)
 # Exemplo de Teste feito em menor escala:
 ![2021-08-30_11-42-10](https://user-images.githubusercontent.com/75738653/131357498-51e1ad1d-d7d0-480f-8a2d-e28659784c40.gif)
